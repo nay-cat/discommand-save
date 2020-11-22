@@ -1,0 +1,43 @@
+{
+  "_from": "discommand-save",
+  "_id": "discommand-save@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-bqJWic0UUWGw/qTmMGKOAQpCt4zyc890VNNdwWxdrIWk9WkCYahnnwJsCBfIM9wxR6FxZ62hRtajZ/Jgs0IHRw==",
+  "_location": "/discommand-save",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "discommand-save",
+    "name": "discommand-save",
+    "escapedName": "discommand-save",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discommand-save/-/discommand-save-1.0.2.tgz",
+  "_shasum": "fac36adc1bf4d66389bc6e376a1cfa4c704715ef",
+  "_spec": "discommand-save",
+  "_where": "C:\\Users\\34650\\Desktop\\Javascript\\VSC",
+  "author": {
+    "name": "nayra"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "util": "^0.12.3"
+  },
+  "deprecated": false,
+  "description": "Create commands easy and save space",
+  "license": "ISC",
+  "main": "MemoryKicker.js",
+  "name": "discommand-save",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
