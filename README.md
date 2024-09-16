@@ -73,7 +73,3 @@ Por limitaciones de Discord, **puede** que dentro de 14 días tu comando de erro
 
 Due to Discord limitations, **may** that within 14 days your command error, this is not your fault or the NPM, if this happens, simply reselect the ID of the command, some things so that this does not happen is to use a database.
 
-# Support
- Support Server **::** https://discord.gg/CjZWhve
- Discord **::** https://discord.bio/p/nayra
- GitHub **::** https://github.com/xNayra
